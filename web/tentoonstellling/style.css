@@ -1,0 +1,20 @@
+html{
+    font-family:sans-serif;
+
+}
+
+body{
+    background: brown;
+}
+
+#container{
+    background-color: chartreuse;
+    width: 700px;
+    margin: auto;
+}
+
+img{
+    width: 30vw;
+    height: 30vw;
+}
+
