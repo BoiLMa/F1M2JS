@@ -1,0 +1,16 @@
+body{
+    padding: 5px;
+    margin: 5px;
+}
+
+.button{
+    background-color: chartreuse;
+    padding: 5px;
+    margin: 5px;
+    width: 100px;
+    color: indigo;
+}
+
+.button:hover{
+    background-color: greenyellow;
+}
